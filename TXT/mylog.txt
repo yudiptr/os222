@@ -1,13 +1,15 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 300 L73 Gaming including Board Games.
+ZCZC W00 100 L02 OS Class
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 90 L02 ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 60 L09 SDA and PBP related
-ZCZC W00 120 L32 YouTube: watching Dota related, etc.
-ZCZC W00 120 L72 Doing Web Project
-ZCZC W00 40 L33 Podcast incl. Spotify: Helo Bagas and Rintik Sedu.
-ZCZC W00 20 L63 Fixing My Parents Fan
+ZCZC W00 10 L10 Working on Assignment #00
+ZCZC W00 10 L10 Working on Assignment #01
+ZCZC W00 10 L10 Working on Assignment #02
+ZCZC W00 10 L10 Working on Assignment #03
+ZCZC W00 5 L10 Working on Assignment #04
+ZCZC W00 20 L10 Working on Assignment #06
+ZCZC W00 40 L32 YouTube: watching OS related, etc.
