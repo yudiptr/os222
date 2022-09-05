@@ -17,7 +17,8 @@ ZCZC W00 40 L32 YouTube: watching OS related, etc.
 ZCZC W00 100 L02 OS Class 1 Sept 2022
 ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 15 L64 Helping a friend (OS related problem)
-ZCZC W00 120 L15 Assignment #05 (Reading)
+ZCZC W00 90 L15 Assignment #05 (Reading chapter 1)
+ZCZC W00 90 L15 Assignment #05 (Reading chapter 2 and 18)
 ZCZC W01 60 L61 Install Virtual Box
 ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 30 L08 Asking friend about gnu linux and virtual box
