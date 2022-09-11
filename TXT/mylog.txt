@@ -19,6 +19,15 @@ ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 15 L64 Helping a friend (OS related problem)
 ZCZC W00 90 L15 Assignment #05 (Reading chapter 1)
 ZCZC W00 90 L15 Assignment #05 (Reading chapter 2 and 18)
-ZCZC W01 60 L61 Install Virtual Box
+ZCZC W01 150 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W01 30 L08 Asking friend about gnu linux and virtual box
+ZCZC W01 60 L12 Assignment #02 (reading assignment)
+ZCZC W01 10 L13 Assignment #03 (create links and index also myupdates)
+ZCZC W01 100 L02 OS Class 6 Sept 2022
+ZCZC W01 100 L02 OS Class 8 Sept 2022
+ZCZC W01 60 L05 Quiz related include research and discuss about the answer with friends and also study before the quiz
+ZCZC W01 60 L08 Assistance about install virtual box and gnu/linux with kak wibisono
+ZCZC W01 30 L27 Setting SSH and Putty to linux (prefer ssh bcs much easier)
+ZCZC W01 30 L64 Helping a friend with virtual box and linux
+ZCZC W01 20 L03 GitHub related (learn how to push, pull, and also commit from linux terminal)i
 
