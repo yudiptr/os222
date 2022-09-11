@@ -29,5 +29,6 @@ ZCZC W01 60 L05 Quiz related include research and discuss about the answer with 
 ZCZC W01 60 L08 Assistance about install virtual box and gnu/linux with kak wibisono
 ZCZC W01 30 L27 Setting SSH and Putty to linux (prefer ssh bcs much easier)
 ZCZC W01 30 L64 Helping a friend with virtual box and linux
-ZCZC W01 20 L03 GitHub related (learn how to push, pull, and also commit from linux terminal)i
-
+ZCZC W01 20 L03 GitHub related (learn how to push, pull, and also commit from linux terminal)
+ZCZC W01 60 L11 Assignment #01 (dress up virtual box and fixing some error :D)
+ZCZC W01 20 L41 Updating TXT/mylog.txt for OSWEEK 01 
