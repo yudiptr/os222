@@ -1,4 +1,4 @@
-r Log Format
+# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L01 SCELE/Discord related
@@ -20,5 +20,5 @@ ZCZC W00 15 L64 Helping a friend (OS related problem)
 ZCZC W00 90 L15 Assignment #05 (Reading chapter 1)
 ZCZC W00 90 L15 Assignment #05 (Reading chapter 2 and 18)
 ZCZC W01 60 L61 Install Virtual Box
-ZCZC W01 30 L61 Asking friend about gnu linux and virtual box
+ZCZC W01 30 L08 Asking friend about gnu linux and virtual box
 
