@@ -32,3 +32,4 @@ ZCZC W01 30 L64 Helping a friend with virtual box and linux
 ZCZC W01 20 L03 GitHub related (learn how to push, pull, and also commit from linux terminal)
 ZCZC W01 60 L11 Assignment #01 (dress up virtual box and fixing some error :D)
 ZCZC W01 20 L41 Updating TXT/mylog.txt for OSWEEK 01 
+ZCZC W02
