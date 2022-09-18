@@ -32,4 +32,17 @@ ZCZC W01 30 L64 Helping a friend with virtual box and linux
 ZCZC W01 20 L03 GitHub related (learn how to push, pull, and also commit from linux terminal)
 ZCZC W01 60 L11 Assignment #01 (dress up virtual box and fixing some error :D)
 ZCZC W01 20 L41 Updating TXT/mylog.txt for OSWEEK 01 
-ZCZC W02 testest
+ZCZC W02 100 L02 OS Class 12 Sept 2022
+ZCZC W02 120 L02 OS Class 15 Sept 2022
+ZCZC W02 90 L11 Reading Assignment chapt 16 17
+ZCZC W02 40 L12 GnuPB Key
+ZCZC W02 90 L22 Fixing some error about git file corrupt and read-only while opening a file from terminal
+ZCZC W02 120 L22 Linux (Changing username, hostname, groups, and also generating new key)
+ZCZC W02 90 L64 Helping a friend to change username, fixing github error, and also clone from ssh
+ZCZC W02 15 L43 TXT/myrank.tex, peer review.
+ZCZC W02 5  L45 running bash myscript.sh
+ZCZC W02 20 L41 writing mylog.txt
+ZCZC W02 3 L05 Do the OS quiz
+ZCZC W02 45 L05 Discuss about quiz answer with friend in old buildings
+ZCZC W02 60 L15 Scripting and fix error
+ZCZC W02 10 L11 4 github Matras :D
