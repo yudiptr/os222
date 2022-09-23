@@ -46,4 +46,16 @@ ZCZC W02 3 L05 Do the OS quiz
 ZCZC W02 45 L05 Discuss about quiz answer with friend in old buildings
 ZCZC W02 60 L15 Scripting and fix error
 ZCZC W02 10 L11 4 github Matras :D
-ZCZC W03 test new key
+ZCZC W03 90 L11 Assignment #01 Reading Assignment
+ZCZC W03 120 L02 OS Class 20 Sept 2022
+ZCZC W03 120 L00 OS Class 22 Sept 2022(Offline)
+ZCZC W03 120 L12 Assignment #02 (mounting, chown, create new disk, run the script, update kernel)
+ZCZC W03 20 L41 writing mylog.txt
+ZCZC W03 50 L05 Do the OS quiz 1 (And also read chapter, discuss the answer)
+ZCZC W03 30 L05 Do the OS quiz 2 (And also learn scripting for make sure the answer)
+ZCZC W03 60 L64 Helping a friend (OS related problem) (lost and found, adding new)
+ZCZC W03 30 L27 Generating new ssh key, connect it into github
+ZCZC W03 50 L23 Learn bash and regex also another linux syntax
+ZCZC W03 10 L11 4 github Matras :D
+ZCZC W03 15 L43 TXT/myrank.tex, peer review.
+ZCZC W03 10 L44 TXT/myscript.sh related.

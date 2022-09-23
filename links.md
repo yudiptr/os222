@@ -26,3 +26,13 @@ After i changed my username from yupud into yudiptr, i got some trouble when i w
 
 ### 3. [Giving Write Access to New User](https://askubuntu.com/questions/402980/give-user-write-access-to-folder)
 Basically, if u make a new user and want to work from there, perhaps it only have read-only mode. If you face with those case, you can follow this tips
+
+## Week 3
+### 1. [Difference Between su and su- linux](https://www.tecmint.com/difference-between-su-and-su-commands-in-linux/)
+Well, we have passed 2 weeks and there were some moments for us to use either su or su - when doin some apt-install or configuring os task. I wondering what is su and su - and here is it :D
+
+### 2. [Alias in linux](https://phoenixnap.com/kb/linux-alias-command#:~:text=In%20Linux%2C%20an%20alias%20is,and%20avoiding%20potential%20spelling%20errors.)
+Tired of typing the same "long" command to do something in terminal? Worry no more, just set them into simple alias and call it anytime u need it.
+
+### 3. [File System in Linus](https://opensource.com/life/16/10/introduction-linux-filesystems)
+Wanna know more about file system in linux? just hit the link up and also it can help us for another quiz :D
