@@ -59,3 +59,4 @@ ZCZC W03 50 L23 Learn bash and regex also another linux syntax
 ZCZC W03 10 L11 4 github Matras :D
 ZCZC W03 15 L43 TXT/myrank.tex, peer review.
 ZCZC W03 10 L44 TXT/myscript.sh related.
+ZCZC W03 5 L26 encrypting POP QUIZ.
