@@ -60,3 +60,17 @@ ZCZC W03 10 L11 4 github Matras :D
 ZCZC W03 15 L43 TXT/myrank.tex, peer review.
 ZCZC W03 10 L44 TXT/myscript.sh related.
 ZCZC W03 5 L26 encrypting POP QUIZ.
+ZCZC W04 120 L02 OS Class 27 Sept 2022
+ZCZC W04 120 L00 OS Class 29 Sept 2022(Offline)
+ZCZC W04 60 L05 Do the OS quiz 1 (And also read chapter, discuss the answer)
+ZCZC W04 30 L05 Do the OS quiz 2 (And also learn scripting for make sure the answer)
+ZCZC W04 90 L11 Assignment #01 Reading Assignment
+ZCZC W04 30 L11 Assignment #02 Scripting
+ZCZC W04 20 L41 writing mylog.txt
+ZCZC W04 60 L64 Helping a friend (OS related problem) user bash error
+ZCZC W04 10 L03 4 github Matras :D
+ZCZC W04 90 L25 C-language including Make. (Learn pointer, addres, print type in c)
+ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt. (Encrypting pop quiz)
+ZCZC W04 20 L43 TXT/myrank.tex, peer review.
+ZCZC W04 10 L44 TXT/myscript.sh related.
+ZCZC W04 30 L07 Trying demo for uts.

@@ -36,3 +36,10 @@ Tired of typing the same "long" command to do something in terminal? Worry no mo
 
 ### 3. [File System in Linus](https://opensource.com/life/16/10/introduction-linux-filesystems)
 Wanna know more about file system in linux? just hit the link up and also it can help us for another quiz :D
+
+## Week 4
+### 1. [Pointer in C](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+Tired of learning how pointer in c works? look at this video mate!
+
+### 2. [Got Crazy While Paying Attention to C Languange Formatting?](https://www.cs.fsu.edu/~myers/c++/notes/c_io.html)
+Worry no more bro! just look at this explanation, you'll be pro at formatting output like previous quiz :D
