@@ -43,3 +43,10 @@ Tired of learning how pointer in c works? look at this video mate!
 
 ### 2. [Got Crazy While Paying Attention to C Languange Formatting?](https://www.cs.fsu.edu/~myers/c++/notes/c_io.html)
 Worry no more bro! just look at this explanation, you'll be pro at formatting output like previous quiz :D
+
+## Week 5
+### 1. [Confused how to compile C programs in ubuntu?](https://www.javatpoint.com/linux-make-command)
+We have passed 5 weeks in OS class and there was a command called make. So i tried to undertand what make is in ubuntu and this is my source to understand it.
+
+### 2. [Virtual Memory in OS](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
+We learned Virtual Memory in this week and i tried to find another explanation of virtual memory in operating system and this may help u in understanding about virtual memory.

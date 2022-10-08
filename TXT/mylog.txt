@@ -74,3 +74,16 @@ ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt. (Encrypting pop quiz)
 ZCZC W04 20 L43 TXT/myrank.tex, peer review.
 ZCZC W04 10 L44 TXT/myscript.sh related.
 ZCZC W04 30 L07 Trying demo for uts.
+ZCZC W05 120 L02 OS Class 4 oct 2022
+ZCZC W05 120 L00 OS Class 6 Sept 2022(Offline)
+ZCZC W05 60 L07 Trying demo for uts.
+ZCZC W05 120 L11 Assignment #01 Reading Assignment
+ZCZC W05 20 L43 TXT/myrank.tex, peer review.
+ZCZC W05 10 L44 TXT/myscript.sh related.
+ZCZC W05 45 L64 Helping a friend to start week 5 assignment
+ZCZC W05 60 L05 Do the OS quiz 1 (And also read chapter, discuss the answer)
+ZCZC W05 30 L05 Do the OS quiz 2 (And also learn scripting for make sure the answer)
+ZCZC W05 30 L13 Assignment #02 Scripting and sorting mem
+ZCZC W05 10 L03 4 github Matras :D
+ZCZC W05 20 L41 writing mylog.txt
+ZCZC W05 90 L25 C-language including Make. (Learn memory)
