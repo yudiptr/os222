@@ -50,3 +50,10 @@ We have passed 5 weeks in OS class and there was a command called make. So i tri
 
 ### 2. [Virtual Memory in OS](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
 We learned Virtual Memory in this week and i tried to find another explanation of virtual memory in operating system and this may help u in understanding about virtual memory.
+
+## Week 6
+### 1. [More explanation of Fork, Parent, Etc](https://www.geeksforgeeks.org/fork-system-call/)
+We've been through the week 6 and learned about parent, fork, wait. But somehow, i'm confused bcs C language it's that hard lol, so here is my reference to learn about week 6.
+
+### 2. [PPID and PID](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)
+When i face the words PID and PPID, im dont understand. Either Lecturer dont give us the explanation or i didnt pay attention tho, so yeah this is such a nice source to understand PID and PPID.
