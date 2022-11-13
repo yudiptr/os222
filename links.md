@@ -57,3 +57,10 @@ We've been through the week 6 and learned about parent, fork, wait. But somehow,
 
 ### 2. [PPID and PID](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)
 When i face the words PID and PPID, im dont understand. Either Lecturer dont give us the explanation or i didnt pay attention tho, so yeah this is such a nice source to understand PID and PPID.
+
+## Week 7
+### 1. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Such a great explanation for learn the meaning of deadlock
+
+### 2. [Transfer file to SSH from local](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh)
+By using scp make us able to transfer file from local to a server in a simple way!

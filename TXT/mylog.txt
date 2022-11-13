@@ -101,3 +101,19 @@ ZCZC W06 60 L62 Backup VM bcs reset windows
 ZCZC W06 40 L64 Helping my friend to do pop quiz
 ZCZC W06 10 L41 create log.
 ZCZC W06 10 L03 4 github Matras :D
+ZCZC W07 120 L00 OS Class 8 Nov 2022 (offline)
+ZCZC W07 120 L00 OS Class 10 Nov 2022 (Offline)
+ZCZC W07 120 L11 Assignment #01 Reading Assignment
+ZCZC W07 60 L07 Trying demo final weeek7
+ZCZC W07 30 L12 Assignment #02 Scripting
+ZCZC W07 30 L22 transfer file
+ZCZC W07 40 L22 fetching from os repo
+ZCZC W07 60 L05 Do the OS quiz 1 (And also read chapter, discuss the answer)
+ZCZC W07 15 L05 Do the OS quiz 2 (And also learn)
+ZCZC W07 20 L41 writing mylog.txt
+ZCZC W07 40 L64 Helping my friend to do pop quiz
+ZCZC W07 10 L41 create log.
+ZCZC W07 10 L03 4 github Matras :D
+ZCZC W07 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 10 L14 update links
+ZCZC W07 15 L30 Udacity: learn about deadlock
