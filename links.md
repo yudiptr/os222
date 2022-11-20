@@ -64,3 +64,10 @@ Such a great explanation for learn the meaning of deadlock
 
 ### 2. [Transfer file to SSH from local](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh)
 By using scp make us able to transfer file from local to a server in a simple way!
+
+## Week 08
+### 1. [Linux From Scratch?](https://www.linuxfromscratch.org/)
+For yall who's still wondering what is linux from scratch
+
+### 2. [Faster Download for LFS](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/)
+Low speed while downloading linux 5.1.9 while doin assignment? just download manually from this links, better speed better life lol.

@@ -117,3 +117,20 @@ ZCZC W07 10 L03 4 github Matras :D
 ZCZC W07 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W07 10 L14 update links
 ZCZC W07 15 L30 Udacity: learn about deadlock
+ZCZC W08 120 L00 OS Class 15 Nov 2022 (offline)
+ZCZC W08 120 L00 OS Class 17 Nov 2022 (online)
+ZCZC W08 120 L11 Assignment #01 Reading Assignment
+ZCZC W08 60 L07 Trying demo final weeek8
+ZCZC W08 30 L12 Assignment #02 Scripting
+ZCZC W08 120 L13 Download resource for LFS
+ZCZC W08 120 L13 Compile for LFS
+ZCZC W08 40 L22 fetching from os repo
+ZCZC W08 60 L05 Do the OS quiz 1 (And also read chapter, discuss the answer)
+ZCZC W08 15 L05 Do the OS quiz 2 (And also learn)
+ZCZC W08 30 L22 Recompiling for POP QUIZ
+ZCZC W08 20 L41 writing mylog.txt
+ZCZC W08 40 L64 Helping my friend to do pop quiz
+ZCZC W08 10 L41 create log.
+ZCZC W08 10 L03 4 github Matras :D
+ZCZC w08 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 10 L14 update links
